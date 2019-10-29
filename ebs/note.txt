@@ -1,0 +1,5 @@
+EBS - Elastic Block Storage:
+* can exist without EC2 instance
+* EC2 is required in order to access ebs storage
+* EBS cannot be attached to more than one EC2 instance
+* it is not usual to make partitions on EBS disks since more disks can be attached with any size
